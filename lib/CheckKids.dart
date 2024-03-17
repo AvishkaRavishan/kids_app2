@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:jema_app/ChatScreen.dart';
-import 'package:jema_app/teacherchat.dart';
-import 'package:jema_app/classroomview.dart';
-import 'package:jema_app/addclassroom.dart';
-import 'package:jema_app/teacherhome.dart';
+import 'package:mobile_application_kids/ChatScreen.dart';
+import 'package:mobile_application_kids/teacherchat.dart';
+import 'package:mobile_application_kids/classroomview.dart';
+import 'package:mobile_application_kids/addclassroom.dart';
+import 'package:mobile_application_kids/teacherhome.dart';
 
 import 'TeacherProfile.dart';
 

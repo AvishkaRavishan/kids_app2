@@ -1,4 +1,4 @@
-package com.example.jema_app
+package com.example.mobile_application_kids
 
 import io.flutter.embedding.android.FlutterActivity
 
