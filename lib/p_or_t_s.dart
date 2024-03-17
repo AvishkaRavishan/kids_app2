@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:jema_app/parentSignUp.dart';
-import 'package:jema_app/teachersignup.dart';
+import 'package:mobile_application_kids/parentSignUp.dart';
+import 'package:mobile_application_kids/teachersignup.dart';
 import 'ParentLogin.dart';
 import 'login.dart';
 

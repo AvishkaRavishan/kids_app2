@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="jema_app"
+        android:label="mobile_application_kids"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:jema_app/p_or_t.dart';
-import 'package:jema_app/parentSignUp.dart';
-import 'package:jema_app/teachersignup.dart';
+import 'package:mobile_application_kids/p_or_t.dart';
+import 'package:mobile_application_kids/parentSignUp.dart';
+import 'package:mobile_application_kids/teachersignup.dart';
 
 import 'p_or_t_s.dart';
 

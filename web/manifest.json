@@ -1,6 +1,6 @@
 {
-    "name": "jema_app",
-    "short_name": "jema_app",
+    "name": "mobile_application_kids",
+    "short_name": "mobile_application_kids",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
