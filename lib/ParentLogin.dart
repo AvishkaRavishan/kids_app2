@@ -2,8 +2,8 @@ import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:jema_app/parentHome.dart';
-import 'package:jema_app/teacherhome.dart';
+import 'package:mobile_application_kids/parentHome.dart';
+import 'package:mobile_application_kids/teacherhome.dart';
 
 import 'main.dart';
 
