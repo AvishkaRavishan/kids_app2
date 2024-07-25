@@ -1,2 +1,2 @@
 # kids_app2
-jema
+not final version
